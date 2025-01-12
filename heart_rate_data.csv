@@ -1,0 +1,4 @@
+HeartRate,Label
+72,0  // Normal
+110,1 // Abnormal
+45,1  // Abnormal
